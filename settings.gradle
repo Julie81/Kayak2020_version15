@@ -1,0 +1,2 @@
+rootProject.name='Kayak2020_version15'
+include ':app'

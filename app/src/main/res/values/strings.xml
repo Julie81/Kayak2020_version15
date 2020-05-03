@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kayak2020_version15</string>
+    <string name="title_activity_gestion_trajectoire">Map</string>
+    <string name="title_activity_navigation_guiding">Map</string>
+
+    <string name="map_key" translatable="false">AIzaSyCxz0WTlnnQdUquXqwyXA8gwixZ_eC_GNI</string>
+</resources>
